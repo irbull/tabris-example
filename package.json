@@ -1,0 +1,9 @@
+{
+  "title": "Push Button",
+  "category": "Button",
+  "description": "Create a push button that counts up",
+  "main": "button.js",
+  "dependencies": {
+    "tabris": "^1.0.0"
+  }
+}
